@@ -2,6 +2,14 @@ package com.smartbear.demo;
 import java.util.Scanner;
 
 public class Main {
+	
+	public static void test(){
+		
+		//new comment
+		
+	}
+	
+	
     public static void main(String args[]) {
 		
 		// input to print Fibonacci series up to how many numbers
@@ -11,7 +19,7 @@ public class Main {
 		System.out.println("\n\nFibonacci series up to " + number +" numbers : ");
 		//printing Fibonacci series up to number
 		for(int i=1; i<=number; i++){
-		    System.out.println(fibonacciRecusion(i));
+		    System.out.println(fibonacciLoop(i));
 		
     }
 

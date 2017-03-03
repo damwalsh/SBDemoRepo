@@ -3,9 +3,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String args[]) {
-		asdasdsadasdsd
-	
-			
+
     }
 
     // Java program for Fibonacci number using recursion.

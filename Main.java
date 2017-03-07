@@ -4,9 +4,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String args[]) {
 		
-	
-			
-    }
+	}
 
     // Java program for Fibonacci number using recursion.
     public static long fibonacciRecusion(long number){

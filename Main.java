@@ -10,7 +10,7 @@ public class Main {
         System.out.println("\n\nFibonacci series up to " + number +" numbers : ");
         //printing Fibonacci series up to number
         for(int i=1; i<=number; i++){
-            System.out.println(fibonacciRecursion(i));	
+            System.out.println(fibonacciLoop(i));	
 	}
 
     // Java program for Fibonacci number using recursion.

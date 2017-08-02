@@ -4,8 +4,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String args[]) {
     
-	
-	System.out.print("Enter number up to which Fibonacci series to print: ");
+		System.out.print("Enter number up to which Fibonacci series to print: ");
         int number = new Scanner(System.in).nextInt();
 
         System.out.println("\n\nFibonacci series up to " + number +" numbers : ");
